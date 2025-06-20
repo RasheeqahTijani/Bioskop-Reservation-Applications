@@ -1,6 +1,5 @@
 # Bioskop-Reservation-Applications
 BAD_BB82_Bioskop Reservation Applications
-Rasyiqah Tharifah T.R - 2702343782 
 
 Deskripsi singkat :
 Reservasi Tempat Duduk Bioskop adalah aplikasi manajemen reservasi tiket bioskop sederhana berbasis javaFx yang memungkinkan penggunanya untuk melakukan pemesanan tiket film, memilih kursi yang tersedia, mengganti data pemesanan, dan membatalkan pemesanan tiket. Aplikasi ini dirancang untuk memberikan kemudahan dalam melakukan pemesanan tiket dan mengurangi antrian di loket bioskop.
